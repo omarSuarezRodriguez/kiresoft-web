@@ -1,1 +1,1 @@
-FROM wordpress:latest
+FROM wordpress:6.8.3-php8.2-apache
